@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  margin: 0px;
+}
+
+#HexaChart {
+  width: 100vw;
+  height: 100vh;
+}
